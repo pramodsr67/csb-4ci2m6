@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://pramodsr67.github.io/csb-4ci2m6/static/css/main.964d6cfc.chunk.css",
+    "main.js": "https://pramodsr67.github.io/csb-4ci2m6/static/js/main.025f2838.chunk.js",
+    "main.js.map": "https://pramodsr67.github.io/csb-4ci2m6/static/js/main.025f2838.chunk.js.map",
+    "runtime-main.js": "https://pramodsr67.github.io/csb-4ci2m6/static/js/runtime-main.4fd1a70d.js",
+    "runtime-main.js.map": "https://pramodsr67.github.io/csb-4ci2m6/static/js/runtime-main.4fd1a70d.js.map",
+    "static/css/2.e4479280.chunk.css": "https://pramodsr67.github.io/csb-4ci2m6/static/css/2.e4479280.chunk.css",
+    "static/js/2.3d15016e.chunk.js": "https://pramodsr67.github.io/csb-4ci2m6/static/js/2.3d15016e.chunk.js",
+    "static/js/2.3d15016e.chunk.js.map": "https://pramodsr67.github.io/csb-4ci2m6/static/js/2.3d15016e.chunk.js.map",
+    "index.html": "https://pramodsr67.github.io/csb-4ci2m6/index.html",
+    "static/css/2.e4479280.chunk.css.map": "https://pramodsr67.github.io/csb-4ci2m6/static/css/2.e4479280.chunk.css.map",
+    "static/css/main.964d6cfc.chunk.css.map": "https://pramodsr67.github.io/csb-4ci2m6/static/css/main.964d6cfc.chunk.css.map",
+    "static/js/2.3d15016e.chunk.js.LICENSE.txt": "https://pramodsr67.github.io/csb-4ci2m6/static/js/2.3d15016e.chunk.js.LICENSE.txt",
+    "static/media/default-skin.css": "https://pramodsr67.github.io/csb-4ci2m6/static/media/default-skin.f64c3af3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fd1a70d.js",
+    "static/css/2.e4479280.chunk.css",
+    "static/js/2.3d15016e.chunk.js",
+    "static/css/main.964d6cfc.chunk.css",
+    "static/js/main.025f2838.chunk.js"
+  ]
+}
